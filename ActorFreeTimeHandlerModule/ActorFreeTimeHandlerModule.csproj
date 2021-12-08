@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="OSMLSGlobalLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Dependencies\OSMLS\OSMLSGlobalLibrary.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
