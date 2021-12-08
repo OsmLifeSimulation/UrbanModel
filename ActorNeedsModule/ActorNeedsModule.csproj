@@ -16,4 +16,8 @@
       <PackageReference Include="NetTopologySuite" Version="2.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ActorModule\ActorModule.csproj" />
+    </ItemGroup>
+
 </Project>
