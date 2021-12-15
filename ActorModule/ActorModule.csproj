@@ -10,6 +10,9 @@
       <Reference Include="OSMLSGlobalLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
         <HintPath>..\Dependencies\OSMLS\OSMLSGlobalLibrary.dll</HintPath>
       </Reference>
+      <Reference Include="PathsFindingCoreModule, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Dependencies\OSMLS\PathsFindingCoreModule.dll</HintPath>
+      </Reference>
     </ItemGroup>
 
     <ItemGroup>
