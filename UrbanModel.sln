@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorModule", "ActorModule\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorInitializationModule", "ActorInitializationModule\ActorInitializationModule.csproj", "{1E0F4567-B3F2-42F1-B359-EBF3294FE92E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorNeedsModule", "ActorNeedsModule\ActorNeedsModule.csproj", "{1C7C8D24-7F0F-4ED1-9FDE-BC5EDF7BCC6D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Handling", "Handling", "{FB4F07A3-AE7D-4F92-AD40-B8C0F750F621}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorHungerHandlerModule", "ActorHungerHandlerModule\ActorHungerHandlerModule.csproj", "{A03F4B4E-BFC4-4CF2-96A4-0BBD1C0C199D}"
@@ -32,10 +30,6 @@ Global
 		{1E0F4567-B3F2-42F1-B359-EBF3294FE92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E0F4567-B3F2-42F1-B359-EBF3294FE92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E0F4567-B3F2-42F1-B359-EBF3294FE92E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C7C8D24-7F0F-4ED1-9FDE-BC5EDF7BCC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C7C8D24-7F0F-4ED1-9FDE-BC5EDF7BCC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C7C8D24-7F0F-4ED1-9FDE-BC5EDF7BCC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C7C8D24-7F0F-4ED1-9FDE-BC5EDF7BCC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A03F4B4E-BFC4-4CF2-96A4-0BBD1C0C199D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A03F4B4E-BFC4-4CF2-96A4-0BBD1C0C199D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A03F4B4E-BFC4-4CF2-96A4-0BBD1C0C199D}.Release|Any CPU.ActiveCfg = Release|Any CPU
